@@ -8,16 +8,18 @@ I'm a passionate developer with a love for coding and exploring the endless poss
 
 ## 💼 Looking for Opportunities
 
-- 🎓 Final-year student pursuing Computer Science.
-- 🏢 Actively seeking full-time positions in software development.
+- 🎓 Graduate in AI&DS branch
+- 🏢 Actively seeking full-time positions in Data Science 
 - 🌱 Passionate about machine learning and data science.
 
 ## 💻 Technologies and Skills
 
-- Languages: C, C++, Python
-- App Development: Flutter, Dart (Beginner)
-- Machine Learning: Exploring
-- Data Science: Exploring
+🛠️ Tech Stack: Core: Python | C | C++ | SQL | Git | Docker
+ML/DL: scikit-learn | TensorFlow | PyTorch | Hugging Face
+Data Analysis: Pandas | NumPy | SciPy | Statsmodels
+Visualization: Matplotlib | Seaborn | Plotly
+Cloud & Tools: AWS/GCP basics | Jupyter | VS Code
+Development: REST APIs | Django | CI/CD basics
 
 ## 📊 GitHub Stats
 

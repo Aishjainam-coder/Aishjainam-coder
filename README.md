@@ -33,10 +33,6 @@ Development: REST APIs | Django | CI/CD basics
 - [Project 2](https://github.com/Stargent-Robotics-Community/Aishwarya-Jain): 
 - [Project 3](https://github.com/Aishjainam-coder/Calendar-Flutter): 
 
-## 🌟 Achievements
-
-- [Certificate 1](https://www.example.com/certificate-1)
-- [Certificate 2](https://www.example.com/certificate-2)
 
 ## 🤝 Let's Connect
 
